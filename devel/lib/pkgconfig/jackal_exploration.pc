@@ -1,0 +1,8 @@
+prefix=/home/talha/ros_ws/devel
+
+Name: jackal_exploration
+Description: Description of jackal_exploration
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="jackal_exploration" type="explore.py" name="explore" output="screen" />
+
+</launch>
